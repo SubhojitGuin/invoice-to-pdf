@@ -45,6 +45,10 @@ You can customize the script by modifying the following:
 - Logo: Replace the `sg-logo-design-initial-sg-letter-logo-icon-design-pro-free-vector.jpg` file with your company logo file.
 - Styling: Modify the font, color, and layout settings to customize the appearance of the PDF output.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
 ## Acknowledgements
 
 - [fpdf](https://github.com/reingart/pyfpdf): A Python library for PDF document generation.
